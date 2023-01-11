@@ -1,2 +1,4 @@
 # iLikeRed
-Color scheme for nvim.
+Colorscheme for nvim.
+
+I guess I'm a vim junkie now.
