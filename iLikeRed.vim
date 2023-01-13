@@ -58,18 +58,19 @@ if &t_Co >= 256 || has("gui_running")
     hi number ctermfg=124 ctermbg=16
     hi Search ctermfg=16 ctermbg=124
     hi ErrorMsg ctermfg=16 ctermbg=124
-    hi Visual ctermfg=16 ctermbg=124
     hi Error ctermfg=16 ctermbg=124
+    hi Visual ctermfg=16 ctermbg=124
     hi function ctermfg=161 ctermbg=16
     hi Delimiter ctermfg=161 ctermbg=16
-    hi Identifier ctermfg=54 ctermbg=16
     hi Identifier ctermfg=54 ctermbg=16
     hi PreProc ctermfg=54 ctermbg=16
     hi PMenu ctermfg=16 ctermbg=124
     hi PMenuSel ctermfg=124 ctermbg=16
-    hi Statement ctermfg=160 ctermbg=16
+    hi Statement ctermfg=2 ctermbg=16
     hi PMenu ctermfg=16 ctermbg=124
     hi Type ctermfg=22 ctermbg=16
     hi TabLine ctermfg=124 ctermbg=16
     hi StatusLineNC ctermfg=16 ctermbg=124
+    hi Character ctermfg=21 ctermbg=16
+    hi Constant ctermfg=6 ctermbg=16
   endif
