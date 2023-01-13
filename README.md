@@ -3,5 +3,8 @@ Colorscheme for nvim.
 
 I guess I'm a vim junkie now.
 
-![image](https://user-images.githubusercontent.com/43701418/211912136-9ac92f8e-9adc-4ee9-a898-884bb919fe97.png)
+I'm making this colorscheme as I code, I find some weird color, I change it to fit my needs and write it in there.
+
+![image](https://user-images.githubusercontent.com/43701418/212207260-326b861d-667a-4eda-88a1-ab8805596999.png)
+
 
