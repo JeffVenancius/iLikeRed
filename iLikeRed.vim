@@ -39,7 +39,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "anderson"
+let colors_name = "iLikeRed"
 set background=dark
 
 if version > 800
@@ -62,15 +62,19 @@ if &t_Co >= 256 || has("gui_running")
     hi Visual ctermfg=16 ctermbg=124
     hi function ctermfg=161 ctermbg=16
     hi Delimiter ctermfg=161 ctermbg=16
-    hi Identifier ctermfg=54 ctermbg=16
+    hi Identifier ctermfg=22 ctermbg=16
     hi PreProc ctermfg=54 ctermbg=16
     hi PMenu ctermfg=16 ctermbg=124
     hi PMenuSel ctermfg=124 ctermbg=16
-    hi Statement ctermfg=2 ctermbg=16
+    hi Statement ctermfg=172 ctermbg=16
     hi PMenu ctermfg=16 ctermbg=124
-    hi Type ctermfg=22 ctermbg=16
+    hi PmenuSbar ctermbg=16
+    hi PmenuThumb ctermbg=1
+    hi Type ctermfg=46 ctermbg=16
     hi TabLine ctermfg=124 ctermbg=16
     hi StatusLineNC ctermfg=16 ctermbg=124
+    hi CursorLineNr cterm=bold ctermfg=124 ctermbg=16
+    hi CursorLine cterm=bold
     hi Character ctermfg=21 ctermbg=16
     hi Constant ctermfg=6 ctermbg=16
   endif
