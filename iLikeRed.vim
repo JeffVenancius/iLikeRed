@@ -78,4 +78,5 @@ set background=dark
     hi VertSplit        ctermfg=88      ctermbg=none                         guifg=#870000      guibg=none        gui=none         
     hi StatusLine       ctermfg=16      ctermbg=88       cterm=bold          guifg=#000000      guibg=#870000     gui=bold
     hi StatusLineNC     ctermfg=88      ctermbg=16       cterm=underline     guifg=#870000      guibg=#000000     gui=underline
+    hi Title            ctermfg=88      ctermbg=16       cterm=bold          guifg=#870000      guibg=#000000     gui=underline
 
